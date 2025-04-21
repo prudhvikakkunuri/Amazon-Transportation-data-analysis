@@ -234,7 +234,7 @@ ORDER BY
 ---
 
 
-Tracking the **performance drop of orders** involves analyzing trends and identifying areas where logistics or operations may have faltered. We’ll focus on canceled orders, delayed deliveries, and changes in overall order statuses over time. Here’s how we can analyze this:
+### **Tracking the **performance drop of orders** involves analyzing trends and identifying areas where logistics or operations may have faltered. We’ll focus on canceled orders, delayed deliveries, and changes in overall order statuses over time. Here’s how we can analyze this:
 
 ---
 
