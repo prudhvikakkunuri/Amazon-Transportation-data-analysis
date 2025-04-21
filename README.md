@@ -1,7 +1,6 @@
 # Amazon-Transportation-data-analysis
 
 ## Project Summary:
-Here’s how you can quantify this project to make it even more impactful for your resume:
 
 1. **Built and Analyzed a Dataset of 200+ Records:** Created and managed a relational database with over 200 rows of data across four tables (`Orders`, `Transportation`, `Carriers`, and `Customers`), using SQL to simulate Amazon's order transportation system.
 
